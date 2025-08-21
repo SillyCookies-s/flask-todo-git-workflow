@@ -64,12 +64,12 @@ Git-to-do-flask-registration-app/
 2. Install dependencies: `pip3 install -r requirements.txt`
 3. Create `.env` file from template: `cp .env.example .env`
 4. Configure MongoDB Atlas URI in `.env` file with your credentials
-5. Run backend: `python3 app.py` (runs on port 3000)
+5. Run backend: `python3 app.py` (Runs on port 3000)
 
 ### Frontend Setup
 1. Navigate to frontend directory: `cd frontend`
 2. Install dependencies: `pip3 install -r requirements.txt`
-3. Run frontend: `python3 app.py` (runs on port 5000)
+3. Run frontend: `python3 app.py` (Runs on port 5000)
 
 ## Usage
 
