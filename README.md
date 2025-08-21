@@ -25,7 +25,7 @@ A simple Flask application with MongoDB Atlas integration for user registration.
 ## Project Structure
 
 ```
-3/
+Git-to-do-flask-registration-app/
 ├── .github/
 │   └── workflows/
 │       └── ci-gitactions.yml   # CI pipeline for builds images to be pushed to Docker hub
